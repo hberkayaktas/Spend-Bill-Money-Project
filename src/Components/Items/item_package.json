@@ -16,5 +16,35 @@
       "item_name": "Coca-Cola Pack",
       "price": 5,
       "item_img":"./items/boeing-747.jpg"
-    } 
+    },
+    {
+      "id": 4,
+      "item_name": "Movie Ticket",
+      "price": 12,
+      "item_img":"./items/movie-ticket.jpg"
+    } ,
+    {
+      "id": 5,
+      "item_name": "Year of Netflix",
+      "price": 12,
+      "item_img":"./items/year-of-netflix.jpg"
+    },
+    {
+      "id": 6,
+      "item_name": "Ford F-150",
+      "price": 30000,
+      "item_img":"./items/ford-f-150.jpg"
+    } ,
+    {
+      "id": 7,
+      "item_name": "Yacht",
+      "price": 7500000,
+      "item_img":"./items/yacht.jpg"
+    },
+    {
+      "id": 8,
+      "item_name": "Cruise Ship",
+      "price": 930000000,
+      "item_img":"./items/cruise-ship.jpg"
+    }   
 ]
