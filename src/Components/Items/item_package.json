@@ -9,13 +9,13 @@
       "id": 2,
       "item_name": "Flip Flops",
       "price": 2,
-      "item_img":"./items/air-jordans.jpg"
+      "item_img":"./items/flip-flops.jpg"
     },
     {
       "id": 3,
       "item_name": "Coca-Cola Pack",
       "price": 5,
-      "item_img":"./items/boeing-747.jpg"
+      "item_img":"./items/coca-cola-pack.jpg"
     },
     {
       "id": 4,
